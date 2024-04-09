@@ -18,7 +18,7 @@ public class Main_3 {
             System.out.println("El triple del número es: " + (numero * 3));
         }
         
-        // aqui cerramos el ciclo scanner 
+        // aqui cerramos el ciclo scanner pa liberar recursos
         scanner.close();
     }
 }
