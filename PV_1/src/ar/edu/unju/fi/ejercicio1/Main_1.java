@@ -1,8 +1,9 @@
-package ar.edu.unju.fi.ejercicio1; // Reemplaza "tu.paquete" con el nombre de tu paquete
-
+package ar.edu.unju.fi.ejercicio1; // Aqui debo poner el nombre de mi paquete
 public class Main_1 {
     public static void main(String[] args) {
-        // Declarar e inicializar las variables
+       
+    	
+    	// Declarar e inicializar las variables
         int num1 = 8;
         int num2 = 5;
         int num3 = 1;

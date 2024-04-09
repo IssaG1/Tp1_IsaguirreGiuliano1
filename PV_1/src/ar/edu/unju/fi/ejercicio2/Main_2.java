@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.ejercicio2; // Reemplaza "tu.paquete" con el nombre de tu paquete
+package ar.edu.unju.fi.ejercicio2; // aqui el nombre de mi paquete 
 
 public class Main_2 {
     public static void main(String[] args) {
