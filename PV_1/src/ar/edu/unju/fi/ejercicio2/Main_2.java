@@ -1,4 +1,5 @@
-package ar.edu.unju.fi.ejercicio2; // aqui el nombre de mi paquete 
+package ar.edu.unju.fi.ejercicio2;
+
 
 public class Main_2 {
     public static void main(String[] args) {
